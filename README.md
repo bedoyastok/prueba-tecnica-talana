@@ -1,7 +1,9 @@
 # prueba-tecnica-talana
 Automatizacion de prueba con selenium y python
 
-El repositorio con tiene un archivo cart.py, el cual contiene los casos de prueba planteados en el ejercicio.
+El repositorio con tiene un archivo cart.py, el cual contiene los casos de prueba planteados en el ejercicio y adicionalmente esta el archivo en PDF con el cuestionario.
+
+Para la automatizacion de usaron:
 
 Python 3.10.7
 
